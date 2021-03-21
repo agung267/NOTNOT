@@ -8,7 +8,7 @@
       "manager",
       "3"
     ],
-    "repository": "https://github.com/pengemiss762/SKEMERBOT",
+    "repository": "https://github.com/agung267/NOTNOT",
     "env": {
       "ENV": {
         "description": "Setting this to ANYTHING will enable env variables",
@@ -24,7 +24,7 @@
       },
       "OWNER_USERNAME": {
         "description": "Your username",
-        "value": "NLydiaW"
+        "value": "fake267"
       },
       "WEBHOOK": {
         "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -40,19 +40,19 @@
       },
       "SUDO_USERS": {
         "description": "A space separated list of user_ids which should be considered sudo users",
-        "value": "1123523488"
+        "value": "1330133497"
       },
       "SUPPORT_USERS": {
         "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-        "value": "1123523488"
+        "value": "1330133497"
       },
       "WHITELIST_USERS": {
         "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-        "value": "1123523488"
+        "value": "1330133497"
       },
       "DONATION": {
         "description": "Optional: wallet you would like to receive donations.",
-        "value": "DDfw8dSx9o2Em7F1QPmZ2YW7uLAzz2mmLK"
+        "value": "gada"
       },
       "PORT": {
         "description": "Port to use for your webhooks",
@@ -79,7 +79,7 @@
       {
         "plan": "heroku-postgresql",
         "options": {
-          "version": "9.5"
+          "version": "12"
         }
       }
     ]
